@@ -7,7 +7,7 @@ const App = () => (
   <View style={styles.container}>
     <ImageBackground source={image} resizeMode="cover" style={styles.image}>
       <Text style={styles.text}>CRM APP</Text>
-      <Image source={require('../images/MicrosoftTeams-image.png')} />
+      <Image source={require('../images/ROI_LOGO1_Colored.png')} />
     </ImageBackground>
   </View>
 );
