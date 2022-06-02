@@ -1,7 +1,7 @@
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
- *
+ * uploaded to Github account on 03 june 2022
  * @format
  * @flow
  */
